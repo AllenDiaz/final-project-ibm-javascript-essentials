@@ -23,7 +23,7 @@ const showResult = (name, image, info) => {
     }
     result.innerHTML = `
     <h2 class="title">${name} sssss</h2>
-    <img class="search-img" src=${image} alt="sofia">
+    <img class="search-img" src=${image} alt="allen">
     <p class="description">${info}</p>
   `;
 
